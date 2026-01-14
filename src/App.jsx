@@ -1,20 +1,12 @@
-import './App.css'
+import "./App.css";
+import Plus from "../src/pages/Plus.jsx";
 
 function App() {
-
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+      <Plus />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
