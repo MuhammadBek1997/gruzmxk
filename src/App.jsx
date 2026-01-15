@@ -1,18 +1,12 @@
-import './App.css'
+import './App.css' 
+import Services from './pages/Services.jsx'
+
 
 function App() {
 
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+     <Services/>
     </>
   )
 }
