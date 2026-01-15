@@ -1,19 +1,14 @@
 import './App.css'
+import Aloqa from './pages/Aloqa'
 
-function App() {
+function App(){
 
   return (
-    <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
-    </>
+    <div>
+
+      <Aloqa />
+
+    </div>
   )
 }
 
