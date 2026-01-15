@@ -1,0 +1,60 @@
+
+.services{
+    width: 100%;
+    /* overflow-x: auto; */
+}
+.services-h2 {
+    font-size: 30px;
+    margin-left: 45px;
+    font-family: "Commissioner", sans-serif;
+}
+.services-cards {
+    font-family: "Commissioner", sans-serif;
+    display: flex;
+    min-width: fit-content;
+}
+.services-card {
+    width: 360px;
+    height: 580px;
+    border: 1px solid #f3f3f3;
+    border-radius: 18px;
+    background: #DDDDDD;
+    gap: 40px;
+    margin-left: 44px;
+}
+.services-card h2 {  
+    text-align: center;
+    font-size: 40px;
+    font-weight: 650;
+}
+.services-card h3 {
+    margin-left: 20px;
+    font-size: 32px;
+    color: #1D3485;
+    font-weight: 350;
+}
+.services-card p {
+    width: 340px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+  
+}
+.services-card img {
+    width: 350px;
+
+
+}
+.services-card button {
+    width: 330px;
+    height: 54px;
+    border-radius: 22px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #1D3485;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+}
