@@ -1,18 +1,11 @@
 import './App.css'
+import Header from './pages/Header'
 
 function App() {
 
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+      <Header/>
     </>
   )
 }
