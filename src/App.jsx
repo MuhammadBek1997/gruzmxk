@@ -1,18 +1,11 @@
 import './App.css'
+import Footer from './pages/footer'
 
 function App() {
 
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+    <Footer/>
     </>
   )
 }
