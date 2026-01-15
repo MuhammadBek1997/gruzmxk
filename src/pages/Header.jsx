@@ -49,7 +49,7 @@ const Header = () => {
 
 
         <div className='hero-logo'>
-          <img src="/images/jin.jpg" alt="" />
+          <img src="/images/image.jpg" alt="" />
         </div>
       </div>
       <div className='hero-logo-mhg'>

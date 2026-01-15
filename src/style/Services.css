@@ -30,6 +30,7 @@
 .services-card h3 {
     margin-left: 20px;
     font-size: 32px;
+    padding-top: 20px;
     color: #1D3485;
     font-weight: 350;
 }
@@ -39,6 +40,8 @@
     justify-content: center;
     align-items: center;
     font-size: 14px;
+    padding-top: 40px;
+   
   
 }
 .services-card img {
@@ -46,6 +49,7 @@
 
 
 }
+
 .services-card button {
     width: 330px;
     height: 54px;
@@ -55,6 +59,7 @@
     text-align: center;
     background: #1D3485;
     color: white;
+    margin-top: 20px;
     font-size: 15px;
     margin-left: 10px;
 }
