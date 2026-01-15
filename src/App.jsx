@@ -1,18 +1,10 @@
 import './App.css'
-
+import Truck from './page/Truck'
 function App() {
 
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+    <Truck/>
     </>
   )
 }

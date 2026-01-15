@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.truck-cont {
+    font-size: 35px;
+    margin-left: 50px;
+}
+
+.order {
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.order button {
+    width: 145px;
+    height: 34px;
+    border-radius: 7px;
+    border: none;
+}
+
+.order-cont button {
+    background: #1D3485;
+    color: white;
+}
+
+.numbers-cont {
+    margin-top: 20px;
+    margin-left: 50px;
+    display: flex;
+    gap: 30px;
+}
+
+.two {
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    gap: 30px;
+}
+
+.there {
+    margin-top: 20px;
+    margin-left: 150px;
+    display: flex;
+    gap: 30px;
+}
+
+.four {
+    margin-top: 20px;
+    margin-left: 200px;
+    display: flex;
+    gap: 30px;
+}
+
+.numbers-cont h3 {
+    font-size: 25px;
+}
+
+.two h3 {
+    font-size: 25px;
+}
+
+.there h3 {
+    font-size: 25px;
+}
+
+.four h3 {
+    font-size: 25px;
+}
+
+
+
+.numbers-cont p {
+  margin-top: 10px;  
+}
+
+.two p {
+    margin-top: 10px;
+}
+
+.there p {
+   margin-top: 10px; 
+}
+
+.four p {
+  margin-top: 10px;  
+}
