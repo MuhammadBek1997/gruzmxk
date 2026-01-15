@@ -4,15 +4,7 @@ function App() {
 
   return (
     <>
-      <div>
-        Begzod
-        Ramzbek
-        Shohruh
-        Elyor
-        Botir
-        Eldor
-        Umid
-      </div>
+      
     </>
   )
 }
